@@ -25,6 +25,8 @@ console.log(toothless.breathesFire());
 
 console.log(Dragon.getDragons(puff, toothless));
 
+module.exports = Dragon;
+
 /****************************************************************************/
 /******************* DO NOT EDIT CODE BELOW THIS LINE ***********************/
 
